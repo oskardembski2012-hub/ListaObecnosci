@@ -12,5 +12,12 @@ jaja (real)
 =======
 harhar
 jaja
+<<<<<<< HEAD
+PaJEkq
+=======
 JAN HARemSZA
+<<<<<<< HEAD
+>>>>>>> refs/remotes/origin/main
+=======
 >>>>>>> 3e700ab80b7c4beb6df28d052cb2e1b9aef16848
+>>>>>>> refs/remotes/origin/main
