@@ -1,10 +1,15 @@
-Oskar
+Krzys
+Oskar Dembski
 Wojtek
 Inesa
 Dudek
-Sabina
+Sabina Khan
 Dawid
 Ching
 harhar
 jaja
+<<<<<<< HEAD
 PaJEkq
+=======
+JAN HARemSZA
+>>>>>>> refs/remotes/origin/main
